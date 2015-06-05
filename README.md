@@ -15,6 +15,6 @@ Basic Slider Input class for PIXI js, with HTML input interface
 Example Usage
   var slider = new Slider( 500, 4, false );
   
-  slider.setVal( 43 );
-  slider.getVal();
+  slider.setSliderVal( 43 );
+  slider.getSliderVal();
 ```  
